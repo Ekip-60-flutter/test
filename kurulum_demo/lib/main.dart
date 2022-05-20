@@ -1,16 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:kurulum_demo/login_page.dart';
+
+import 'login-page/login_page.dart';
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home: LoginPage(),
     );
   }
 }
-
