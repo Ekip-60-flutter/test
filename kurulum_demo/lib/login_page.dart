@@ -28,14 +28,14 @@ class _LoginPageState extends State<LoginPage> {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const <Widget>[
-                    Text(
-                      "Harika bir gün geçirelim",
-                      style: TextStyle(color: Colors.pink, fontSize: 35),
-                    ),
+                    YaziHareket(),
                     SizedBox(height: 10),
                     Text(
                       "Haydi Planlayalım!",
-                      style: TextStyle(color: Colors.pink, fontSize: 15),
+                      style: TextStyle(
+                          fontFamily: 'PatrickHand',
+                          color: Colors.pink,
+                          fontSize: 30),
                     )
                   ]),
             ),
@@ -82,4 +82,44 @@ class _LoginPageState extends State<LoginPage> {
           backgroundColor: MaterialStateProperty.all<Color>(Colors.deepOrange),
         ),
       );
+}
+
+class YaziHareket extends StatefulWidget {
+  const YaziHareket({Key? key}) : super(key: key);
+
+  @override
+  State<YaziHareket> createState() => _YaziHareketState();
+}
+
+class _YaziHareketState extends State<YaziHareket>
+    with SingleTickerProviderStateMixin {
+  late AnimationController _controller;
+  late Animation<double> _animation;
+
+  @override
+  void initState() {
+    super.initState();
+    _controller =
+        AnimationController(duration: const Duration(seconds: 5), vsync: this);
+    _animation = CurvedAnimation(parent: _controller, curve: Curves.bounceInOut)
+      ..addListener(() => this.setState(() {}))
+      ..addStatusListener((durum) {
+        debugPrint(durum.toString());
+      });
+    _controller.repeat();
+  }
+
+  @override
+  void dispose() {
+    super.dispose();
+    _controller.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Text(
+      "Hoşgeldiniz",
+      style: TextStyle(fontSize: 15.0 + _animation.value * 30),
+    );
+  }
 }
