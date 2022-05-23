@@ -87,7 +87,7 @@ Alınan kararlar:Uygulamanın ne olacağına karar verilmiştir,uygulamaya eklen
 - **Daily Scrum**:Daily scrum toplantıları ikinci sprint süresince de discord üzerinden yapılmaya devam edilmiştir:[sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/16G3fFu8j62nc657oqD3UDNYdbmAadf8w/edit?usp=sharing&ouid=109217053515306416297&rtpof=true&sd=true)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- [Screenshot]![image](![2416a943-3414-49a9-a748-04e3cae31b4a](https://user-images.githubusercontent.com/104395653/169865114-a7b630d0-f3a4-4e54-85de-8cdef2ee5d5c.JPG)
+- [Screenshot]![image]![2416a943-3414-49a9-a748-04e3cae31b4a](https://user-images.githubusercontent.com/104395653/169865114-a7b630d0-f3a4-4e54-85de-8cdef2ee5d5c.JPG)
 )
 
 - **Sprint Review**:Sprint Review toplantıları Google Meet üzerinden yapılmıştır.Alınan kararlar:Uygulamanın logosu tasarlanmıştır.Uygulamanın özellikleri kodlanmaya başlanmıştır.Sprint Review katılımcıları: Ayşenur Duman,Furkan Yağlı,Zehra Varol,Gül Akıncı
