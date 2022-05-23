@@ -91,7 +91,7 @@ Alınan kararlar:Uygulamanın ne olacağına karar verilmiştir,uygulamaya eklen
 )
 
 - **Sprint Review**:Sprint Review toplantıları Google Meet üzerinden yapılmıştır.Alınan kararlar:Uygulamanın logosu tasarlanmıştır.Uygulamanın özellikleri kodlanmaya başlanmıştır.Sprint Review katılımcıları: Ayşenur Duman,Furkan Yağlı,Zehra Varol,Gül Akıncı
-- [Screenshot]![image](https://docs.google.com/document/d/1SlHqueEEQ5Il7xs6CksWXTM5OdebI7KM/edit?usp=sharing&ouid=109217053515306416297&rtpof=true&sd=true)
+- [Screenshot](https://docs.google.com/document/d/1SlHqueEEQ5Il7xs6CksWXTM5OdebI7KM/edit?usp=sharing&ouid=109217053515306416297&rtpof=true&sd=true)
 
 
 
