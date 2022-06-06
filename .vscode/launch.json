@@ -1,0 +1,28 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "kurulum_demo",
+            "cwd": "kurulum_demo",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "kurulum_demo (profile mode)",
+            "cwd": "kurulum_demo",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "kurulum_demo (release mode)",
+            "cwd": "kurulum_demo",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
