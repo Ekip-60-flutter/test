@@ -49,7 +49,7 @@ Güne tıklandığında o güne dair notlarınızı yazabileceğiniz notlar sayf
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır.3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -103,5 +103,38 @@ Alınan kararlar:Uygulamanın ne olacağına karar verilmiştir,uygulamaya eklen
 
 # Sprint 3
 
----
+-**Sprint Başlangıç Toplantısı**: 
+-Hatırlatıcı özelliği yerine görevlerin yapıldığında silinmesi özelliği eklenmesine karar verildi.
+-Bu sprintte UT tasarımın tamamlanmasına karar verildi.
+-Bu sprintte UI tasarımın tamamlanmasına karar verildi.
+
+-**Sprint Notları**:Daily scrum ve toplantılara ait ekran görüntüleri daily scrum raporunun içerisindedir.
+
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 180 puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır.3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz uygulama süreçlerine göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
+
+
+- **Daily Scrum**:Daily scrum toplantıları üçüncü sprint süresince de discord üzerinden yapılmaya devam edilmiştir.[sprint 2 Daily Scrum Chats]:(https://docs.google.com/document/d/11Qt3MlzbOMxWSxvT2qfg7GHjjo2UzEa1/edit?usp=sharing&ouid=109217053515306416297&rtpof=true&sd=true) 
+
+ **Sprint board update**: Sprint board screenshotları:(https://docs.google.com/document/d/1fa9l28GExF1WK462aAnCQ9UaJPWv5BX-dm1aGXUMGxk/edit?usp=sharing)
+ 
+ - **Ürün Durumu**: (https://docs.google.com/document/d/1g-tpE2KzILjQRuC5699UdKqki6utRE657qL3yXM0owE/edit?usp=sharing)
+
+**Sprint Review**::Sprint Review toplantıları Google Meet üzerinden yapılmıştır. 
+ -Sprint hedeflerine ulaştı ve ürün planladığı gibi geliştirildi.
+ 
+ Sprint Review katılımcıları:Ayşenur Duman,Furkan Yağlı,Zehra Varol,Gül Akıncı
+[Screenshot]:![IMG-7397](https://user-images.githubusercontent.com/104395653/172120083-b5ba8abf-6b53-46ca-836e-b10757bd7fa0.PNG)
+
+
+
+
+**Sprint Retrospective**:
+Sprint Retrospective toplantısı Google Meet üzerinden yapıldı.
+Ekip arkadaşları projedeki çalışmalarından dolayı tebrik edildi.
+Proje hazırlanırken yapılan eksikliklerin ve hataların neler olduğu ve nasıl düzeltilebileceği konuşuldu.
 
